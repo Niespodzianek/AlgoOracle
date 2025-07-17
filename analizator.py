@@ -14,8 +14,9 @@ def analiza(verbose) -> None:
     # zapis danych surowych do pliku
     # szukanie błędów
     # wyczyszczenie danych
+    # raport o błędach
     # zapis danych wyczyszczonych do pliku
     # uzupełnieni danych o wskaźniki
     # zapis danych uzupełnionych do pliku
     nacisnij_enter_aby_kontynuowac()
-    return 0
+    return None
